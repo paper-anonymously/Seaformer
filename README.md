@@ -2,6 +2,9 @@
 
 A PyTorch implementation of our Seaformer
 
+## Dataset
+Three datasets (i.e., [SMPD](https://smp-challenge.com/download.html), [ICIP](https://iplab.dmi.unict.it/popularitydataset/SIPD2020CHALLENGE/train/), [WeChat](https://algo.weixin.qq.com/2021/problem-description)) can be downloaded from official website address.
+
 ## Dependencies
 Install the dependencies via [Anaconda](https://www.anaconda.com/):
 + Python (>=3.8)
@@ -13,10 +16,6 @@ Install the dependencies via [Anaconda](https://www.anaconda.com/):
 + sentence_transformers
 + towhee
 + json
-
-## Dataset
-Three datasets (i.e., [SMPD](https://smp-challenge.com/download.html), [ICIP](https://iplab.dmi.unict.it/popularitydataset/SIPD2020CHALLENGE/train/), [WeChat](https://algo.weixin.qq.com/2021/problem-description)) can be downloaded from official website address.
-
 
 create virtual environment:
 ```
